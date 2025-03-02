@@ -1,1 +1,1 @@
-print("tiurrr sangatt cantikkk")
+print("rengganis sangatt cantikkk")
